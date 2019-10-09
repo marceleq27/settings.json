@@ -1,0 +1,47 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "git.ignoreMissingGitWarning": true,
+  "window.zoomLevel": 0,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.autoprefix": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "liveServer.settings.port": 3000,
+  "workbench.colorTheme": "Material Theme Ocean",
+  "editor.fontFamily": "Fira Code",
+  "editor.letterSpacing": 0.5,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "editor.cursorSmoothCaretAnimation": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.autoFixOnSave": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.fontWeight": "300",
+  "workbench.sideBar.location": "right",
+}
